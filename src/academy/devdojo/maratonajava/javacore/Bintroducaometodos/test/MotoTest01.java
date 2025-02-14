@@ -15,7 +15,7 @@ public class MotoTest01 {
         moto.modelo = "Twister";
 
         System.out.println("Nome da moto " + moto.nome);
-        System.out.println("Nome da mot or " + moto.motor);
+        System.out.println("Nome da motor " + moto.motor);
         System.out.println("Nome da ano " + moto.ano);
         System.out.println("Nome da cor " + moto.cor);
         System.out.println("Nome da modelo " + moto.modelo);
